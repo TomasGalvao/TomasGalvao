@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Galvao</h1>
 <h3 align="center">A Computer Science student @ Nova School of Science and Technology</h3>
 
-- 📚 I’m currently on my **1 year**
+- 📚 I’m currently on my **2 year**
 
 - 🌱 I’m currently learning **Java, C, Assembly and, in the future, Rust**
 
