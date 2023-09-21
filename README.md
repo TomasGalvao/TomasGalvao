@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Galvao</h1>
 <h3 align="center">A Computer Science student @ Nova School of Science and Technology</h3>
 
-- 📚 I’m currently on my **2 year**
+- 📚 I’m currently on my **3 year**
 
-- 🌱 I’m currently learning **Java, C, Assembly and, in the future, Rust**
+- 🌱 I’m currently learning **Java, C, Assembly, PHP and, in the future, Rust**
 
 - 📫 How to reach me **contacto@tomasgalvao.me**
 
